@@ -14,7 +14,7 @@ modern prompt engineering methods.
 
 ## Methods
 - Extending small dataset with generated samples
-- Using parameter efficient training methods (adapters)
+- Using parameter efficient training methods ([adapters](Adapters/README.md))
 - Using special pretrained models
 - ...
 
